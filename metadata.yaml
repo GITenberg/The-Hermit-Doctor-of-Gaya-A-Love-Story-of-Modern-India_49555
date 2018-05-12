@@ -1,4 +1,8 @@
 _repo: The-Hermit-Doctor-of-Gaya-A-Love-Story-of-Modern-India_49555
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49555-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wylie, I. A. R. (Ida Alexa Ross)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2583
     wikipedia: http://en.wikipedia.org/wiki/Ida_Alexa_Ross_Wylie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49555#The-Hermit-Doctor-of-Gaya-A-Love-Story-of-Modern-India
 gutenberg_issued: '2015-07-30'
 gutenberg_type: Text
 identifiers:
